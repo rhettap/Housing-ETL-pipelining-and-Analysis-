@@ -1,4 +1,4 @@
-# Housing-ETL-pipelining-and-Analysis-
+# Housing ETL pipelining and Analysis
 
 An Analytics Engineering pipeline and analysis project using Greenville Housing Data.  
 
